@@ -29,6 +29,8 @@ With GitHub Copilot, setting up GitHub Actions workflows has never been easier.
 Automate CI/CD pipelines by generating YAML configurations.
 Example:
 ![image](https://github.com/user-attachments/assets/8bf5208a-fddd-4952-8fcd-f2fdc987f0d7)
+
+<br>
 4. Microsoft Teams and Power Platform
 For developers working with Microsoft’s low-code and collaboration platforms:
 
