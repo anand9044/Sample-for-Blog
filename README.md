@@ -12,6 +12,7 @@ GitHub Copilot is an AI-driven tool that helps developers write, complete, and d
 It supports a wide array of programming languages, frameworks, and workflows, making it a perfect companion for developers working with Microsoft tools like Visual Studio, Azure, and GitHub Actions.
 
 How GitHub Copilot Works with Microsoft Technologies
+<br>
 1. Visual Studio and Visual Studio Code
 GitHub Copilot integrates directly into Visual Studio Code and Visual Studio, Microsoft’s flagship IDEs.
 
