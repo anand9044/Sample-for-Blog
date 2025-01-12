@@ -48,5 +48,4 @@ So, what are you waiting for? Start using GitHub Copilot today and unlock the fu
 Call to Action
 Learn More: GitHub Copilot.
 Explore Microsoft Learn: Microsoft Learn for Developers.
-Join the Community: Microsoft Tech Community.
-Does this align with what you were envisioning? Let me know if you'd like to add something specific! 😊
+Join the Community: Microsoft Tech Community.😊
