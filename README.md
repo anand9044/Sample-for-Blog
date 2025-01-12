@@ -18,12 +18,14 @@ GitHub Copilot integrates directly into Visual Studio Code and Visual Studio, Mi
 Real-Time Suggestions: Get AI-powered suggestions as you type.
 Multi-Language Support: Write in Python, JavaScript, C#, and more.
 Debugging Assistance: Use Copilot alongside Visual Studio’s debugging tools for efficient error resolution.
+<br>
 2. Azure Development
 Developers working with Microsoft Azure can leverage GitHub Copilot to:
 
 Automate the creation of Azure Functions and Logic Apps.
 Quickly generate deployment scripts for Azure Resources using ARM templates or Bicep.
 Write optimized code for Azure services like Cosmos DB, Azure Cognitive Services, and Azure Machine Learning.
+<br>
 3. GitHub Actions
 With GitHub Copilot, setting up GitHub Actions workflows has never been easier.
 Automate CI/CD pipelines by generating YAML configurations.
